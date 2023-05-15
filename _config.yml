@@ -182,7 +182,9 @@ sass:
 plugins:
  - jekyll-seo-tag
  - jemoji
-
+ 
+gems:
+  - jekyll-pdf
 exclude :                 [
   "Gemfile",
   "Gemfile.lock",
