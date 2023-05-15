@@ -23,7 +23,7 @@ github_username:  atilsensalduz
 # facebook_username: jekyll
 # flickr_username: jekyll
 # instagram_username: jameswgrant
-linkedin_username: atilsensalduz
+linkedin_username: atilerensensalduz
 # xing_username: jekyll
 # pinterest_username: jekyll
 # youtube_username: globalmtb
@@ -49,7 +49,7 @@ additional_links:
 # about_title: About Me
 about_profile_image: images/atil.jpg
 about_content: | 
-  As a Site Reliability Engineer with over six years of experience, my expertise lies in managing cloud infrastructure on AWS and GCP. I have a strong foundation in observability engineering, with a deep focus on cloud-native technologies. My technical proficiency includes the use of a wide range of tools such as Ansible, Terraform, Packer, Jenkins, CDK, Spinnaker, ArgoCD, Kubernetes, Bitbucket, and Github. I am highly skilled in automating infrastructure management and proficient in DevOps practices to manage enterprise infrastructure with a strong emphasis on application security.
+  As a Site Reliability Engineer with over six years of experience, my expertise lies in managing cloud infrastructure on AWS and on-premise. I have a strong foundation in observability engineering, with a deep focus on cloud-native technologies. My technical proficiency includes the use of a wide range of tools such as Ansible, Terraform, Packer, Jenkins, CDK, Spinnaker, ArgoCD, Kubernetes, Bitbucket, and Github. I am highly skilled in automating infrastructure management and proficient in DevOps practices to manage enterprise infrastructure with a strong emphasis on application security.
   
   I specialize in observability, utilizing distributed tracing to gain insights into complex distributed systems. I have a passion for developing tools using Golang to improve my work outcomes and enhance collaboration with my team. My experience and expertise allow me to provide excellent support and solutions for complex infrastructure challenges, while ensuring the reliability and availability of services.
 
