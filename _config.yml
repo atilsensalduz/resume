@@ -9,7 +9,7 @@ version: 2
 name: Atil Eren Sensalduz
 title: Site Reliability Engineer
 email: atil.eren@outlook.com
-phone: +905076101994
+phone: (+90)5076101994
 website: https://github.com/atilsensalduz/
 
 # Dark Mode (true/false/never)
@@ -47,7 +47,7 @@ additional_links:
 
 # About Section
 # about_title: About Me
-about_profile_image: images/profile.jpg
+about_profile_image: images/atil.jpg
 about_content: | 
   As a Site Reliability Engineer with over six years of experience, my expertise lies in managing cloud infrastructure on AWS and GCP. I have a strong foundation in observability engineering, with a deep focus on cloud-native technologies. My technical proficiency includes the use of a wide range of tools such as Ansible, Terraform, Packer, Jenkins, CDK, Spinnaker, ArgoCD, Kubernetes, Bitbucket, and Github. I am highly skilled in automating infrastructure management and proficient in DevOps practices to manage enterprise infrastructure with a strong emphasis on application security.
   
@@ -161,12 +161,12 @@ content:
         description: | 
           Designed and implemented a comprehensive monitoring solution for Cisco UCS servers utilizing open-source tools such as InfluxDB and Grafana. Developed Python scripts to extract and visualize key metrics, ensuring efficient monitoring and proactive management of server infrastructure.
 
-  - title: Certification
+  - title: Certifications
     layout: text
     content: | 
-      <img alt="Kubernetes" src="https://images.credly.com/size/680x680/images/8b8ed108-e77d-4396-ac59-2504583b9d54/cka_from_cncfsite__281_29.png" style="width:16px;height:16px;"><a href="https://www.credly.com/badges/5f01cdfa-a5ef-4cf4-acf1-99602bbf4158/public_url" style="color:#96989b"> CKA: Certified Kubernetes Administrator</a><br/>
-      <img alt="AWS SAA" src="https://images.credly.com/images/0e284c3f-5164-4b21-8660-0d84737941bc/image.png" style="width:16px;height:16px;"><a href="https://www.credly.com/badges/a02e2f16-af50-4087-913b-f1c16d70c813/public_url" style="color:#96989b"> AWS Certified Solutions Architect - Associate</a><br/>
-      <img alt="AWS Cloud Practitioner" src="https://images.credly.com/size/680x680/images/00634f82-b07f-4bbd-a6bb-53de397fc3a6/image.png" style="width:16px;height:16px;"><a href="https://www.credly.com/badges/32daf00e-02c4-44c0-adfa-0b1c5073b0a0/public_url" style="color:#96989b"> AWS Certified Cloud Practitioner</a><br/>
+      <img alt="Kubernetes" src="https://images.credly.com/size/680x680/images/8b8ed108-e77d-4396-ac59-2504583b9d54/cka_from_cncfsite__281_29.png" style="width:21px;height:21px;"><a href="https://www.credly.com/badges/5f01cdfa-a5ef-4cf4-acf1-99602bbf4158/public_url" style="color:#96989b"> CKA: Certified Kubernetes Administrator</a><br/>
+      <img alt="AWS SAA" src="https://images.credly.com/images/0e284c3f-5164-4b21-8660-0d84737941bc/image.png" style="width:21px;height:21px;"><a href="https://www.credly.com/badges/a02e2f16-af50-4087-913b-f1c16d70c813/public_url" style="color:#96989b"> AWS Certified Solutions Architect - Associate</a><br/>
+      <img alt="AWS Cloud Practitioner" src="https://images.credly.com/size/680x680/images/00634f82-b07f-4bbd-a6bb-53de397fc3a6/image.png" style="width:21px;height:21px;"><a href="https://www.credly.com/badges/32daf00e-02c4-44c0-adfa-0b1c5073b0a0/public_url" style="color:#96989b"> AWS Certified Cloud Practitioner</a><br/>
 
 # Footer
 footer_show_references: true
