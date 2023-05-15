@@ -123,12 +123,12 @@ content:
         quote: >
           With a strong background in managing on-prem cloud infrastructure, scripting automation, and resolving performance issues, I am committed to ensuring optimal functionality and efficiency of complex systems
         description: | 
-            Accountable for overseeing a sizable on-prem cloud infrastructure, comprising up to 200 servers and 4000 virtual machines, ensuring optimal performance and availability.
-            Developed and utilized shell scripts to automate day-to-day activities and tasks, enhancing operational efficiency.
-            Wrote Ansible playbooks to streamline environment management, simplifying configuration and deployment processes.
-            Possess extensive experience with on-prem cloud platforms including vCenter, vRops, Loginsight, vRealize Orchestrator, oVirt, and CloudFoundry Bosh, enabling seamless management and monitoring of infrastructure components.
-            Proficiently resolved performance issues in Linux and cloud systems, utilizing troubleshooting techniques to ensure optimal system functionality.
-            Successfully managed Cisco UCS servers, Brocade SAN switches, and storage systems from Hitachi and EMC, ensuring reliability and scalability of the infrastructure.
+            - Accountable for overseeing a sizable on-prem cloud infrastructure, comprising up to 200 servers and 4000 virtual machines, ensuring optimal performance and availability.
+            - Developed and utilized shell scripts to automate day-to-day activities and tasks, enhancing operational efficiency.
+            - Wrote Ansible playbooks to streamline environment management, simplifying configuration and deployment processes.
+            - Possess extensive experience with on-prem cloud platforms including vCenter, vRops, Loginsight, vRealize Orchestrator, oVirt, and CloudFoundry Bosh, enabling seamless management and monitoring of infrastructure components.
+            - Proficiently resolved performance issues in Linux and cloud systems, utilizing troubleshooting techniques to ensure optimal system functionality.
+            - Successfully managed Cisco UCS servers, Brocade SAN switches, and storage systems from Hitachi and EMC, ensuring reliability and scalability of the infrastructure.
 
   - title: Education # Title for the section
     layout: list # Type of content section (list/text)
