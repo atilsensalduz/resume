@@ -1,39 +1,40 @@
 # Site
-repository: sproogen/resume-theme
+repository: atilsensalduz/resume
 favicon: images/favicon.ico
 
 # Content configuration version
 version: 2
 
 # Personal info
-name: Brett Harris
-title: Senior Network System Administrator
-email: brett.h@email.co.uk
-website: www.github.com/sproogen/resume-theme
+name: Atil Eren Sensalduz
+title: Site Reliability Engineer
+email: atil.eren@outlook.com
+phone: +905076101994
+website: https://github.com/atilsensalduz/
 
 # Dark Mode (true/false/never)
 darkmode: false
 
 # Social links
-twitter_username: facespics
-github_username:  sproogen
+# twitter_username: facespics
+github_username:  atilsensalduz
 # stackoverflow_username: "00000001"
 # dribbble_username: jekyll
 # facebook_username: jekyll
 # flickr_username: jekyll
-instagram_username: jameswgrant
-linkedin_username: jameswgrant
+# instagram_username: jameswgrant
+linkedin_username: atilsensalduz
 # xing_username: jekyll
 # pinterest_username: jekyll
-youtube_username: globalmtb
+# youtube_username: globalmtb
 # googleplus_username: +jekyll
 # orcid_username: 0000-0000-0000-0000
 
 # Additional icon links
 additional_links:
-- title: itsgoingto.be
-  icon: fas fa-globe
-  url: https://www.itsgoingto.be
+# - title: itsgoingto.be
+#   icon: fas fa-globe
+#   url: https://www.itsgoingto.be
 # - title: another link
 #   icon: font awesome brand icon name (eg. fab fa-twitter) (https://fontawesome.com/icons?d=gallery&m=free)
 #   url: Link url (eg. https://google.com)
@@ -47,70 +48,125 @@ additional_links:
 # About Section
 # about_title: About Me
 about_profile_image: images/profile.jpg
-about_content: | # this will include new lines to allow paragraphs
-  Hi, my name's Brett and I'm a senior network system administrator. As well as administrating systems I also have experience making software and web apps. I have worked at a number of companies gaining teamwork and leadership skills.
-
-  I am most skilled in: <mark>AWS</mark> and <mark>Eating Pizza</mark>
+about_content: | 
+  As a Site Reliability Engineer with over six years of experience, my expertise lies in managing cloud infrastructure on AWS and GCP. I have a strong foundation in observability engineering, with a deep focus on cloud-native technologies. My technical proficiency includes the use of a wide range of tools such as Ansible, Terraform, Packer, Jenkins, CDK, Spinnaker, ArgoCD, Kubernetes, Bitbucket, and Github. I am highly skilled in automating infrastructure management and proficient in DevOps practices to manage enterprise infrastructure with a strong emphasis on application security.
+  
+  I specialize in observability, utilizing distributed tracing to gain insights into complex distributed systems. I have a passion for developing tools using Golang to improve my work outcomes and enhance collaboration with my team. My experience and expertise allow me to provide excellent support and solutions for complex infrastructure challenges, while ensuring the reliability and availability of services.
 
 content:
-  - title: Projects # Title for the section
-    layout: list # Type of content section (list/text)
-    content:
-      - layout: top-middle
-        title: Super awesome project
-        link: github.com/sproogen
-        # link_text: Project Website
-        additional_links:
-          - title:  sproogen/modern-resume-theme
-            icon: fab fa-github
-            url: github.com/sproogen/modern-resume-theme
-          # - title:  Github page for project (eg. sproogen/modern-resume-theme)
-          #   icon: fab fa-github
-          #   url: Link to project (eg. sproogen.github.io/modern-resume-theme)
-        quote: >
-          This is probably one of the greatest apps ever created, if you don't agree you're probably wrong.
-        description: | # this will include new lines to allow paragraphs
-          I started this project as a way if learning <mark>React</mark> and it has since grown into a fully fledged app. I have learned many skills through this and been I'm very proud of having this in my portfolio. If you don't have a project as awesome as this I would advise you make one.
-
-  - title: Experience # Title for the section
-    layout: list # Type of content section (list/text)
+  - title: Experience 
+    layout: list
     content:
       - layout: left
-        title: The Boring Company
-        link: boringcompany.com
-        # link_text: boringcompany.com
-        sub_title: Senior Network System Administrator
-        caption: November 2017 - Present
+        title: Hazelcast
+        # link: 
+        # link_text: 
+        sub_title: Cloud Engineer
+        caption: January 2023 - Present
         quote: >
-          Solving 21st century problems by diging holes and making game changing products like the *not a flamethrower*
-        description: | # this will include new lines to allow paragraphs
-            Every company needs its networks properly administered and The Boring Compay is no exception. Digging holes is hard and I play my part making sure the whole company stays connected. I lead a team of 5 people and enjoy driving the company to try new technologies.
+          With a strong focus on infrastructure management and automation, coupled with expertise in Kubernetes ecosystem tools such as ArgoCD, Helm, and Prometheus, I am dedicated to optimizing cloud infrastructure and streamlining application deployments
+        description: | 
+          - Responsible for managing and developing the infrastructure of Viridian Cloud, leveraging ArgoCD and Terraform to ensure efficient deployment and management of AWS resources.
+          - Utilize and have extensive experience with GitHub Actions for streamlined CI/CD workflows and version control in the development process.
+          - Implement and maintain Grafana Cloud for comprehensive monitoring and utilize deep knowledge of Prometheus for effective metric collection and analysis.
+          - Develop Helm charts to streamline application deployment and management on Kubernetes, ensuring efficient and scalable deployments.
+          - Employ external secret operators to securely manage secrets within Kubernetes, enhancing application security and access management.
+          - Specialize in managing statefulset applications on Kubernetes, ensuring the reliable and optimal performance of data-intensive workloads.
+          - Possess experience and expertise in working with Karpenter, enabling efficient and automated scaling of Kubernetes clusters based on workload demands.
+
+      - layout: left
+        title: Getir
+        # link: 
+        # link_text: 
+        sub_title: Site Reliability Engineer
+        caption: April 2021 - January 2023
+        quote: >
+          Bringing expertise in cloud infrastructure management, DevOps processes, and observability, I strive to automate and optimize systems while ensuring reliability and performance
+        description: | 
+            - Managed and maintained all aspects of cloud infrastructure and streamlined DevOps processes for improved efficiency.
+            - Developed command-line interface (CLI) tools and lambdas using Python and Go languages to enhance infrastructure management capabilities.
+            - Utilized Bitbucket for source code management and leveraged Bitbucket pipelines to establish a robust continuous integration process.
+            - Installed and configured Spinnaker, creating pipelines for seamless continuous deployment.
+            - Possess a deep understanding of Kubernetes and expertise in managing Amazon EKS (Elastic Kubernetes Service).
+            - Demonstrated proficiency in administering various AWS services, including IAM, VPC, Route 53, EC2, S3, ECS, CloudFront, Elasticache, Postgres RDS, Amazon MQ, and ECR.
+            - Utilized OpsGenie during on-call periods to ensure effective incident response and resolution.
+            - Leveraged CDK (Cloud Development Kit) for infrastructure as code, enabling efficient and scalable deployment.
+            - Utilized NewRelic for comprehensive application performance monitoring and proficient in writing complex NRQL queries for in-depth analysis.
+            - Possess extensive knowledge in observability practices, enabling effective monitoring and troubleshooting of distributed systems.
+            - Administered MongoDB Atlas Cloud, ensuring the smooth operation and maintenance of the database infrastructure.
+
+      - layout: left
+        title: Turkcell
+        # link: 
+        # link_text: 
+        sub_title: Senior Cloud Systems Administrator
+        caption: January 2020 - April 2021
+        quote: >
+          With a comprehensive skill set in cloud automation, configuration management, and infrastructure orchestration, I am dedicated to driving efficiency and scalability while leveraging cutting-edge technologies
+        description: | 
+            - Led the end-to-end cloud automation initiatives at Turkcell Bulut, ensuring streamlined processes and efficient infrastructure management.
+            - Developed PowerShell and Python scripts for effective configuration management across all infrastructure components.
+            - Utilized GitLab as a source code management tool for infrastructure automation, facilitating collaboration and version control.
+            - Successfully installed and configured Jenkins master and slave nodes, establishing a robust CI/CD pipeline. Managed infrastructure as code using tools such as Terraform, Packer, and Ansible.
+            - Possess extensive experience with on-premises cloud platforms including vCenter, vRops, Loginsight, vRealize Orchestrator, vCloud Director, NSX, and oVirt.
+            - Proficiently managed various blade and rack servers from Cisco, HP, Dell, and Huawei.
+            - Demonstrated proficiency in Kubernetes and Rancher, enabling efficient container orchestration and management.
+            - Worked on Openshift at the vCloud Director, adopting GitOps practices like ArgoCD and implementing cloud-native technologies such as Ceph and Helm.
+            - Implemented UCS monitoring using tools like Grafana, InfluxDB, Telegraf, and Python, ensuring comprehensive visibility and performance monitoring.
+
+      - layout: left
+        title: Vakifbank
+        # link: 
+        # link_text: 
+        sub_title: Cloud & Linux Administrator
+        caption: February 2017 - January 2020
+        quote: >
+          With a strong background in managing on-prem cloud infrastructure, scripting automation, and resolving performance issues, I am committed to ensuring optimal functionality and efficiency of complex systems
+        description: | 
+            Accountable for overseeing a sizable on-prem cloud infrastructure, comprising up to 200 servers and 4000 virtual machines, ensuring optimal performance and availability.
+            Developed and utilized shell scripts to automate day-to-day activities and tasks, enhancing operational efficiency.
+            Wrote Ansible playbooks to streamline environment management, simplifying configuration and deployment processes.
+            Possess extensive experience with on-prem cloud platforms including vCenter, vRops, Loginsight, vRealize Orchestrator, oVirt, and CloudFoundry Bosh, enabling seamless management and monitoring of infrastructure components.
+            Proficiently resolved performance issues in Linux and cloud systems, utilizing troubleshooting techniques to ensure optimal system functionality.
+            Successfully managed Cisco UCS servers, Brocade SAN switches, and storage systems from Hitachi and EMC, ensuring reliability and scalability of the infrastructure.
 
   - title: Education # Title for the section
     layout: list # Type of content section (list/text)
     content:
       - layout: left
-        title: Harvard University
-        caption: 2010 - 2013
-        sub_title: BSc Computer Science
-        quote: >
-          Established in 1636, Harvard is the oldest higher education institution in the United States, and is widely regarded in terms of its influence, reputation, and academic pedigree as a leading university in not just the US but also the world.
-        description: | # this will include new lines to allow paragraphs
-          During my time at Harvard I learnt most of my key skills that have I have taken through my career such as teamwork and working to tight deadlines. I thouroughly enjoyed my time as university and learnt a lot about a healthy work life balance.
+        title: Yildiz Technical University
+        caption: 2012 - 2016  
+        sub_title: BSc Electronic and Communication Engineering
 
-          I spent a lot of my free time as a committee member of the *Harvard Mountaineering Club* taking on roles such as *Trip Secretary* and *Vice-President*.
+  - title: Projects 
+    layout: list
+    content:
+      - layout: top-middle
+        title: Efficient Incident Response and Collaboration Enabled by a Go-powered Slack Bot
+        description: | 
+          Developed a robust incident management Slack bot using Go programming language, streamlining incident response and enabling efficient communication and collaboration within the team.
 
-  - title: A Little More About Me
+      - layout: top-middle
+        title: Streamlining Opsgenie Management with New Relic
+        description: | 
+          Created an Opsgenie New Relic Exporter solution by developing Lambdas that retrieve alert and user information from Opsgenie and send it as custom events to New Relic. Designed and implemented a comprehensive dashboard to assist with Opsgenie management and facilitate data-driven decision-making.
+
+      - layout: top-middle
+        title: Golden Image Automation and Deployment with Packer, Jenkins, and Terraform
+        description: | 
+          Implemented template automation using Packer, leveraging Jenkins for seamless building, testing, and deployment of golden images utilized by customers. Employed Terraform for efficient image deployment to vCloud Director and utilized Ansible and Paramiko for conducting smoke tests. Managed source code using GitLab for effective version control and collaboration.
+      
+      - layout: top-middle
+        title: Comprehensive Monitoring Implementation for Cisco UCS Servers with Open-Source Tools
+        description: | 
+          Designed and implemented a comprehensive monitoring solution for Cisco UCS servers utilizing open-source tools such as InfluxDB and Grafana. Developed Python scripts to extract and visualize key metrics, ensuring efficient monitoring and proactive management of server infrastructure.
+
+  - title: Certification
     layout: text
-    content: | # this will include new lines to allow paragraphs
-      Alongside my interests in networks and software engineering some of my other interests and hobbies are:
-      - Rock climbing
-      - Gaming
-      - Knitting
-      - [Becoming a ninja](https://www.youtube.com/watch?v=vtg4o__aRMg)
-
-      Look at this cool image  
-      ![Trees](/modern-resume-theme/images/landscape-trees.jpg "Trees")
+    content: | 
+      <img alt="Kubernetes" src="https://images.credly.com/size/680x680/images/8b8ed108-e77d-4396-ac59-2504583b9d54/cka_from_cncfsite__281_29.png" style="width:16px;height:16px;"><a href="https://www.credly.com/badges/5f01cdfa-a5ef-4cf4-acf1-99602bbf4158/public_url" style="color:#96989b"> CKA: Certified Kubernetes Administrator</a><br/>
+      <img alt="AWS SAA" src="https://images.credly.com/images/0e284c3f-5164-4b21-8660-0d84737941bc/image.png" style="width:16px;height:16px;"><a href="https://www.credly.com/badges/a02e2f16-af50-4087-913b-f1c16d70c813/public_url" style="color:#96989b"> AWS Certified Solutions Architect - Associate</a><br/>
+      <img alt="AWS Cloud Practitioner" src="https://images.credly.com/size/680x680/images/00634f82-b07f-4bbd-a6bb-53de397fc3a6/image.png" style="width:16px;height:16px;"><a href="https://www.credly.com/badges/32daf00e-02c4-44c0-adfa-0b1c5073b0a0/public_url" style="color:#96989b"> AWS Certified Cloud Practitioner</a><br/>
 
 # Footer
 footer_show_references: true
@@ -125,3 +181,17 @@ sass:
 
 plugins:
  - jekyll-seo-tag
+ - jemoji
+
+exclude :                 [
+  "Gemfile",
+  "Gemfile.lock",
+  "node_modules",
+  "vendor/bundle/",
+  "vendor/cache/",
+  "vendor/gems/",
+  "vendor/ruby/",
+  "lib/",
+  "scripts/",
+  "docker-compose.yml",
+  ]
