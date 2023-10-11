@@ -73,6 +73,9 @@ content:
           - Employ external secret operators to securely manage secrets within Kubernetes, enhancing application security and access management.
           - Specialize in managing statefulset applications on Kubernetes, ensuring the reliable and optimal performance of data-intensive workloads.
           - Possess experience and expertise in working with Karpenter, enabling efficient and automated scaling of Kubernetes clusters based on workload demands.
+          - Played a pivotal role in enhancing network security by working extensively on network policies, utilizing the Gadget tool to analyze workload traffic flows and generate precise network policies for secure communication.
+          - Strengthened the security posture of Kubernetes clusters by enhancing securityContext configurations for workloads and ensuring compliance through rigorous checks using Kyverno.
+          - Implemented a multi-architecture approach for workloads, facilitating seamless transitions of Kubernetes nodes to Graviton instances, thereby optimizing resource utilization and cost-effectiveness.
 
       - layout: left
         title: Getir
