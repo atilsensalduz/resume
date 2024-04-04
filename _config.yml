@@ -49,7 +49,7 @@ additional_links:
 # about_title: About Me
 about_profile_image: images/atil.jpg
 about_content: | 
-  As a Site Reliability Engineer with over six years of experience, my expertise lies in managing cloud infrastructure on AWS and on-premise. I have a strong foundation in observability engineering, with a deep focus on cloud-native technologies. My technical proficiency includes the use of a wide range of tools such as Ansible, Terraform, Packer, Jenkins, CDK, Spinnaker, ArgoCD, Kubernetes, Bitbucket, and Github. I am highly skilled in automating infrastructure management and proficient in DevOps practices to manage enterprise infrastructure with a strong emphasis on application security.
+  As a Site Reliability Engineer with over seven years of experience, my expertise lies in managing cloud infrastructure on AWS and on-premise. I have a strong foundation in observability engineering, with a deep focus on cloud-native technologies. My technical proficiency includes the use of a wide range of tools such as Ansible, Terraform, Packer, Jenkins, CDK, Spinnaker, ArgoCD, Kubernetes, Bitbucket, and Github. I am highly skilled in automating infrastructure management and proficient in DevOps practices to manage enterprise infrastructure with a strong emphasis on application security.
   
   I specialize in observability, utilizing distributed tracing to gain insights into complex distributed systems. I have a passion for developing tools using Golang to improve my work outcomes and enhance collaboration with my team. My experience and expertise allow me to provide excellent support and solutions for complex infrastructure challenges, while ensuring the reliability and availability of services.
 
@@ -66,9 +66,9 @@ content:
         quote: >
           With a strong focus on infrastructure management and automation, coupled with expertise in Kubernetes ecosystem tools such as ArgoCD, Helm, and Prometheus, I am dedicated to optimizing cloud infrastructure and streamlining application deployments
         description: | 
-          - Responsible for managing and developing the infrastructure of Viridian Cloud, leveraging ArgoCD and Terraform to ensure efficient deployment and management of AWS resources.
+          - Responsible for managing and developing the infrastructure of Hazelcast Cloud, leveraging ArgoCD and Terraform to ensure efficient deployment and management of AWS resources.
           - Utilize and have extensive experience with GitHub Actions for streamlined CI/CD workflows and version control in the development process.
-          - Implement and maintain Grafana Cloud for comprehensive monitoring and utilize deep knowledge of Prometheus for effective metric collection and analysis.
+          - Implement and maintain Grafana Cloud for comprehensive monitoring and utilize deep knowledge of Prometheus for effective metric collection and analysis, and leverage OpenTelemetry for distributed tracing, ensuring visibility into microservices architectures and enhancing debugging and performance optimization efforts
           - Develop Helm charts to streamline application deployment and management on Kubernetes, ensuring efficient and scalable deployments.
           - Employ external secret operators to securely manage secrets within Kubernetes, enhancing application security and access management.
           - Specialize in managing statefulset applications on Kubernetes, ensuring the reliable and optimal performance of data-intensive workloads.
@@ -76,6 +76,9 @@ content:
           - Played a pivotal role in enhancing network security by working extensively on network policies, utilizing the Gadget tool to analyze workload traffic flows and generate precise network policies for secure communication.
           - Strengthened the security posture of Kubernetes clusters by enhancing securityContext configurations for workloads and ensuring compliance through rigorous checks using Kyverno.
           - Implemented a multi-architecture approach for workloads, facilitating seamless transitions of Kubernetes nodes to Graviton instances, thereby optimizing resource utilization and cost-effectiveness.
+          - Utilized Falco for runtime anomaly detection, enhancing Kubernetes cluster security by monitoring and detecting suspicious activities in real-time, and fine-tuning detection rules for accurate threat identification.
+          - Implemented KEDA for dynamic autoscaling of StatefulSet applications based on custom metrics, optimizing resource utilization and performance by adjusting application scaling in response to real-time demand.
+          - Provisioned and managed Keycloak for secure authentication and authorization.
 
       - layout: left
         title: Getir
@@ -167,8 +170,8 @@ content:
   - title: Certifications
     layout: text
     content: | 
-      <img alt="Kubernetes" src="https://images.credly.com/size/680x680/images/8b8ed108-e77d-4396-ac59-2504583b9d54/cka_from_cncfsite__281_29.png" style="width:48px;height:48px;"><a href="https://www.credly.com/badges/5f01cdfa-a5ef-4cf4-acf1-99602bbf4158/public_url" style="color:#96989b"> CKA: Certified Kubernetes Administrator</a><br/>
-      <img alt="AWS SAA" src="https://images.credly.com/images/0e284c3f-5164-4b21-8660-0d84737941bc/image.png" style="width:48px;height:48px;"><a href="https://www.credly.com/badges/a02e2f16-af50-4087-913b-f1c16d70c813/public_url" style="color:#96989b"> AWS Certified Solutions Architect - Associate</a><br/>
+      <img alt="Kubernetes" src="https://images.credly.com/size/680x680/images/8b8ed108-e77d-4396-ac59-2504583b9d54/cka_from_cncfsite__281_29.png" style="width:48px;height:48px;"><a href="https://www.credly.com/badges/a02e2f16-af50-4087-913b-f1c16d70c813/public_url" style="color:#96989b"> CKA: Certified Kubernetes Administrator</a><br/>
+      <img alt="AWS SAA" src="https://images.credly.com/images/0e284c3f-5164-4b21-8660-0d84737941bc/image.png" style="width:48px;height:48px;"><a href="https://www.credly.com/badges/5f01cdfa-a5ef-4cf4-acf1-99602bbf4158/public_url" style="color:#96989b"> AWS Certified Solutions Architect - Associate</a><br/>
       <img alt="AWS Cloud Practitioner" src="https://images.credly.com/size/680x680/images/00634f82-b07f-4bbd-a6bb-53de397fc3a6/image.png" style="width:48px;height:48px;"><a href="https://www.credly.com/badges/32daf00e-02c4-44c0-adfa-0b1c5073b0a0/public_url" style="color:#96989b"> AWS Certified Cloud Practitioner</a><br/>
 
 # Footer
