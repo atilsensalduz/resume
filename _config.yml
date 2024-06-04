@@ -170,7 +170,9 @@ content:
   - title: Certifications
     layout: text
     content: | 
-      <img alt="Kubernetes" src="https://images.credly.com/size/680x680/images/8b8ed108-e77d-4396-ac59-2504583b9d54/cka_from_cncfsite__281_29.png" style="width:48px;height:48px;"><a href="https://www.credly.com/badges/a02e2f16-af50-4087-913b-f1c16d70c813/public_url" style="color:#96989b"> CKA: Certified Kubernetes Administrator</a><br/>
+      <img alt="CKA" src="https://images.credly.com/size/680x680/images/8b8ed108-e77d-4396-ac59-2504583b9d54/cka_from_cncfsite__281_29.png" style="width:48px;height:48px;"><a href="https://www.credly.com/badges/a02e2f16-af50-4087-913b-f1c16d70c813/public_url" style="color:#96989b"> CKA: Certified Kubernetes Administrator</a><br/>
+      <img alt="CKS" src="https://images.credly.com/size/680x680/images/9945dfcb-1cca-4529-85e6-db1be3782210/kubernetes-security-specialist-logo2.png" style="width:48px;height:48px;"><a href="https://www.credly.com/badges/86bdc37c-c2ce-45b9-9617-0fe991ff0fdd/public_url" style="color:#96989b"> CKS: Certified Kubernetes Security Specialist</a><br/>
+      <img alt="KCSA" src="https://images.credly.com/size/680x680/images/67dd8a95-8876-4051-9cb9-3d97c204f85a/image.png" style="width:48px;height:48px;"><a href="https://www.credly.com/badges/c7c01bbd-e515-44cc-9ff5-4954ffcc6963/public_url" style="color:#96989b"> KCSA: Kubernetes and Cloud Native Security Associate</a><br/>
       <img alt="AWS SAA" src="https://images.credly.com/images/0e284c3f-5164-4b21-8660-0d84737941bc/image.png" style="width:48px;height:48px;"><a href="https://www.credly.com/badges/5f01cdfa-a5ef-4cf4-acf1-99602bbf4158/public_url" style="color:#96989b"> AWS Certified Solutions Architect - Associate</a><br/>
       <img alt="AWS Cloud Practitioner" src="https://images.credly.com/size/680x680/images/00634f82-b07f-4bbd-a6bb-53de397fc3a6/image.png" style="width:48px;height:48px;"><a href="https://www.credly.com/badges/32daf00e-02c4-44c0-adfa-0b1c5073b0a0/public_url" style="color:#96989b"> AWS Certified Cloud Practitioner</a><br/>
 
