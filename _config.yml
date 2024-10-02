@@ -148,6 +148,11 @@ content:
     layout: list
     content:
       - layout: top-middle
+        title: ADR Copilot - Intelligent AI Assistant for Architectural Decision Records
+        description: | 
+          Designed ADR Copilot, an AI-driven solution built with Ollama, Mesop, LLMs (Llama 3.1), RAG with Hazelcast Vector Search, and LangChain to allow users to easily retrieve and explore ADRs, providing quick insights into previous architectural decisions. Automated the drafting and review process of new ADR proposals, ensuring high standards are met before submission
+
+      - layout: top-middle
         title: Efficient Incident Response and Collaboration Enabled by a Go-powered Slack Bot
         description: | 
           Developed a robust incident management Slack bot using Go programming language, streamlining incident response and enabling efficient communication and collaboration within the team.
@@ -156,16 +161,6 @@ content:
         title: Streamlining Opsgenie Management with New Relic
         description: | 
           Created an Opsgenie New Relic Exporter solution by developing Lambdas that retrieve alert and user information from Opsgenie and send it as custom events to New Relic. Designed and implemented a comprehensive dashboard to assist with Opsgenie management and facilitate data-driven decision-making.
-
-      - layout: top-middle
-        title: Golden Image Automation and Deployment with Packer, Jenkins, and Terraform
-        description: | 
-          Implemented template automation using Packer, leveraging Jenkins for seamless building, testing, and deployment of golden images utilized by customers. Employed Terraform for efficient image deployment to vCloud Director and utilized Ansible and Paramiko for conducting smoke tests. Managed source code using GitLab for effective version control and collaboration.
-      
-      - layout: top-middle
-        title: Comprehensive Monitoring Implementation for Cisco UCS Servers with Open-Source Tools
-        description: | 
-          Designed and implemented a comprehensive monitoring solution for Cisco UCS servers utilizing open-source tools such as InfluxDB and Grafana. Developed Python scripts to extract and visualize key metrics, ensuring efficient monitoring and proactive management of server infrastructure.
 
   - title: Certifications
     layout: text
