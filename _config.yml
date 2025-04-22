@@ -10,7 +10,7 @@ name: Atil Eren Sensalduz
 title: Site Reliability Engineer
 email: atil.sensalduz@gmail.com
 phone: (+90)5076101994
-# website: https://github.com/atilsensalduz/
+website: https://atilsensalduz.github.io/
 
 # Dark Mode (true/false/never)
 darkmode: false
@@ -49,9 +49,9 @@ additional_links:
 # about_title: About Me
 about_profile_image: images/atil.jpg
 about_content: | 
-  As a Site Reliability Engineer with over seven years of experience, my expertise lies in managing cloud infrastructure on AWS and on-premise. I have a strong foundation in observability engineering, with a deep focus on cloud-native technologies. My technical proficiency includes the use of a wide range of tools such as Ansible, Terraform, Packer, Jenkins, CDK, Spinnaker, ArgoCD, Kubernetes, Bitbucket, and Github. I am highly skilled in automating infrastructure management and proficient in DevOps practices to manage enterprise infrastructure with a strong emphasis on application security.
-  
-  I specialize in observability, utilizing distributed tracing to gain insights into complex distributed systems. I have a passion for developing tools using Golang to improve my work outcomes and enhance collaboration with my team. My experience and expertise allow me to provide excellent support and solutions for complex infrastructure challenges, while ensuring the reliability and availability of services.
+  I design and scale resilient infrastructure systems that enable engineering teams to deliver with confidence. My focus is on building cloud-native, secure, and observable architectures that support reliability and operational excellence. I drive automation and standardization across environments, ensuring infrastructure is repeatable, auditable, and aligned with business needs.
+
+  With a strong foundation in systems thinking, I bring clarity to complex environments and align infrastructure strategy with product goals. I value simplicity, performance, and maintainability in everything I build—balancing innovation with reliability.
 
 content:
   - title: Experience 
