@@ -79,6 +79,8 @@ content:
           - Utilized Falco for runtime anomaly detection, enhancing Kubernetes cluster security by monitoring and detecting suspicious activities in real-time, and fine-tuning detection rules for accurate threat identification.
           - Implemented KEDA for dynamic autoscaling of StatefulSet applications based on custom metrics, optimizing resource utilization and performance by adjusting application scaling in response to real-time demand.
           - Provisioned and managed Keycloak for secure authentication and authorization.
+          - Migrated from nginx-ingress to Envoy Gateway, transitioning from Ingress to the Gateway API for improved traffic management and extensibility.
+          - Built a secure, reliable private connectivity solution using Tailscale, enabling seamless and encrypted network access for tailored environments.
 
       - layout: left
         title: Getir
