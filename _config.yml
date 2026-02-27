@@ -61,7 +61,7 @@ content:
         title: Hazelcast
         # link: 
         # link_text: 
-        sub_title: Cloud Engineer
+        sub_title: Senior Software Engineer | Cloud
         caption: January 2023 - Present
         quote: >
           With a strong focus on infrastructure management and automation, coupled with expertise in Kubernetes ecosystem tools such as ArgoCD, Helm, and Prometheus, I am dedicated to optimizing cloud infrastructure and streamlining application deployments
@@ -152,7 +152,7 @@ content:
       - layout: top-middle
         title: ADR Copilot - Intelligent AI Assistant for Architectural Decision Records
         description: | 
-          Designed ADR Copilot, an AI-driven solution built with Ollama, Mesop, LLMs (Llama 3.1), RAG with Hazelcast Vector Search, and LangChain to allow users to easily retrieve and explore ADRs, providing quick insights into previous architectural decisions. Automated the drafting and review process of new ADR proposals, ensuring high standards are met before submission
+          Designed ADR Copilot, an AI-driven solution built with Ollama, Mesop, LLMs (Llama 3.1), RAG with Hazelcast Vector Search, and LangChain to allow users to easily retrieve and explore ADRs, providing quick insights into previous architectural decisions. Automated the drafting and review process of new ADR proposals, ensuring high standards are met before submission.
 
       - layout: top-middle
         title: Efficient Incident Response and Collaboration Enabled by a Go-powered Slack Bot
@@ -192,7 +192,7 @@ content:
 
 # Footer
 footer_show_references: true
-# references_title: References on request (Override references text)
+references_title: References available upon request 
 
 # Build settings
 remote_theme: sproogen/resume-theme
