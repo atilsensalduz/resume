@@ -7,7 +7,7 @@ version: 2
 
 # Personal info
 name: Atil Eren Sensalduz
-title: Site Reliability Engineer
+title: SRE Team Lead
 email: atil.sensalduz@gmail.com
 phone: 
 website: https://atilsensalduz.github.io/
@@ -58,11 +58,26 @@ content:
     layout: list
     content:
       - layout: left
+        title: Akbank
+        # link:
+        # link_text:
+        sub_title: SRE Team Lead
+        caption: April 2026 - Present
+        quote: >
+          Bringing SRE discipline to generative AI in banking, making LLM applications as observable, measurable, and reliable as the core financial systems they run alongside
+        description: |
+          - Lead the SRE team responsible for the reliability and observability of the bank's generative AI and openbanking applications in a highly regulated environment.
+          - Build end-to-end observability for LLM applications with OpenTelemetry, tracing requests across prompts, retrieval (RAG) steps, tool calls, and model invocations using GenAI semantic conventions.
+          - Define AI-specific reliability signals—token usage and cost, time-to-first-token and end-to-end latency, model/provider error rates, and response quality—and turn them into SLOs, dashboards, and actionable alerts.
+          - Identify reliability gaps unique to AI workloads, such as model provider dependency, rate limits, timeouts, and non-deterministic outputs, and drive mitigations with the owning teams.
+          - Maintain the bank's in-house APM platform, powered by OpenTelemetry with ClickHouse as the telemetry data store, and standardize instrumentation of traces, metrics, and logs across services for consistent end-to-end visibility for engineering teams.
+
+      - layout: left
         title: Hazelcast
-        # link: 
-        # link_text: 
+        # link:
+        # link_text:
         sub_title: Senior Software Engineer | Cloud
-        caption: January 2023 - Present
+        caption: January 2023 - April 2026
         quote: >
           With a strong focus on infrastructure management and automation, coupled with expertise in Kubernetes ecosystem tools such as ArgoCD, Helm, and Prometheus, I am dedicated to optimizing cloud infrastructure and streamlining application deployments
         description: | 
@@ -149,6 +164,11 @@ content:
   - title: Projects 
     layout: list
     content:
+      - layout: top-middle
+        title: Inference Weekly - Curated Newsletter on Inference Engineering
+        description: |
+          Curate [Inference Weekly](https://inferenceweekly.github.io/), a weekly hand-picked digest of articles, talks, papers, and open-source repos on serving ML and LLM models in production, with a focus on speed, cost, and reliability. Published every Monday by email and RSS, with community link submissions.
+
       - layout: top-middle
         title: ADR Copilot - Intelligent AI Assistant for Architectural Decision Records
         description: | 
